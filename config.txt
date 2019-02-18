@@ -1,0 +1,6 @@
+owner=545576718354874368
+prefix=A
+game=Break | Aplay
+stayinchannel=true
+songinstatus=false
+token=NTQ3MTM2ODU1MjA4ODg2Mjkw.D0yYpg.7VqOajlyDItk7COcGzMulQgvqeU
